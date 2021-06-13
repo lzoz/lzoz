@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I have changed my username to [rookiebiscuit](https://github.com/rookiebiscuit) and this is just a dummy account now to prevent hijacking of link to my repos through username takeover.
 <!--
 **lzoz/lzoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
